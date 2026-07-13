@@ -1,98 +1,226 @@
-# <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=220&section=header&text=Omkar%20Jaju&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Information%20Technology%20Student%20%7C%20Data%20Science%20&%20ML%20Student" />
+<!-- ============ HERO BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There,%20I'm%20Omkar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Data%20Scientist%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=IT+Student;Data+Science+%26+Machine+Learning;Building+AI-Powered+Applications;MERN+Stack+Developer;Computer+Vision+%7C+LLMs+%7C+RAG)](https://git.io/typing-svg)
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+ML;Turning+data+into+decisions;Full+Stack+Developer+%7C+MERN+%2B+Python;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
+</a>
 
-![Open To Work](https://img.shields.io/badge/Open%20To%20Work-Yes-22c55e?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=Omkarjaju7&style=for-the-badge)
-![](https://img.shields.io/github/followers/Omkarjaju7?style=for-the-badge)
+<br/>
+
+<!-- ============ OPEN TO WORK ============ -->
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=Handshake&logoColor=white&color=22C55E" alt="Open to Work"/>
+<img src="https://img.shields.io/badge/Based%20in-India-blue?style=for-the-badge&logo=googlemaps&logoColor=white&color=6366F1" alt="Location"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Omkarjaju7&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Omkarjaju7?style=for-the-badge&logo=github&color=6366F1&labelColor=1a1a2e" alt="GitHub Followers"/>
 
 </div>
 
-## 👨‍💻 Who I Am
+<br/>
 
-```ts
-const omkar = {
-  title: "Information Technology Student | Data Science & ML Student",
-  stack: [
-    "Python","C++","Java","JavaScript","SQL",
-    "MERN Stack","React.js","Node.js","Express.js",
-    "Computer Vision","Deep Learning","NLP","LLMs","RAG",
-    "TensorFlow","Keras","Scikit-learn","FastAPI","LangChain","Hugging Face"
-  ],
-  launchedProjects: 2,
-  certifications: [],
-  status: "Learning, building AI & full-stack applications",
-  openTo: "Internships and Full-time opportunities"
-}
-```
+<!-- ============ ABOUT ME ============ -->
+## 🧑‍💻 About Me
 
+<img align="right" width="320" src="https://raw.githubusercontent.com/OleksiiBulba/OleksiiBulba/main/img/hi.gif" alt="coding gif"/>
+
+- 🔭 I'm currently working on **AI-powered applications** that blend machine learning with production-grade full stack engineering
+- 🌱 Currently deep-diving into **Deep Learning, LLMs, and MLOps**
+- 💡 I love turning messy, real-world data into clean, actionable insights
+- 🛠️ I build end-to-end — from data pipelines and model training to polished, responsive web apps
+- 🎯 2026 Goal: Land a role where I can ship AI products that people actually use
+- ⚡ Fun fact: I debug faster with coffee ☕ than without
+
+<br clear="right"/>
+
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## 🧰 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+
+**AI / ML / Data Science**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+**Full Stack Development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,django,flask,tailwind&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,vscode,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ============ FEATURED PROJECTS ============ -->
 ## 🚀 Featured Projects
 
-### Vendor Invoice Intelligence System
+<div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omkarjaju7&repo=Vendor-Invoice-Intelligence-System&theme=nord)](https://github.com/Omkarjaju7/Vendor-Invoice-Intelligence-System)
+<table>
+<tr>
+<td width="50%">
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Framework | Streamlit |
-| ML | Scikit-learn |
-| Data | Pandas, NumPy |
-| Visualization | Seaborn, Matplotlib |
+### 🤖 [AI Project Name](https://github.com/Omkarjaju7/repo-1)
+An end-to-end machine learning project that [does X for Y users] — trained on [dataset], achieving [metric/result].
 
-- **Live:** https://vendor-invoice-intelligence-system-jevrnwb2uhtlokxdlyxypo.streamlit.app/
-- **Code:** https://github.com/Omkarjaju7/Vendor-Invoice-Intelligence-System
+`Python` `TensorFlow` `Flask` `Docker`
 
-### Movie Recommendation System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-1)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Omkarjaju7&repo=Movie-Recommendation-System&theme=nord)](https://github.com/Omkarjaju7/Movie-Recommendation-System)
+</td>
+<td width="50%">
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Framework | Streamlit |
-| ML | Scikit-learn |
-| Data | Pandas |
-| API | TMDB |
+### 🌐 [Full Stack App Name](https://github.com/Omkarjaju7/repo-2)
+A full stack web application featuring [key feature] with real-time [functionality], built for [use case].
 
-- **Live:** https://movie-recommendation-system-fpcosmrvpom92gehejjc8e.streamlit.app/
-- **Code:** https://github.com/Omkarjaju7/Movie-Recommendation-System
+`React` `Node.js` `MongoDB` `Express`
 
-## 🛠 Tech Stack
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-2)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,sql)](https://skillicons.dev)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+### 📊 [Data Science Project](https://github.com/Omkarjaju7/repo-3)
+Exploratory analysis and predictive modeling on [dataset/domain], surfacing insights that [impact/result].
 
-### Backend / Infra
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi)](https://skillicons.dev)
+`Python` `Pandas` `scikit-learn` `Power BI`
 
-### AI / DB
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,mongodb)](https://skillicons.dev)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-3)
+[![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
 
-### Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+</td>
+<td width="50%">
 
-## 📊 GitHub Stats
+### 🔧 [Developer Tool Name](https://github.com/Omkarjaju7/repo-4)
+A utility/tool that streamlines [workflow], saving [time/effort metric] for developers.
 
-![](https://github-readme-stats.vercel.app/api?username=Omkarjaju7&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff)
+`TypeScript` `Node.js` `CLI`
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarjaju7&layout=compact&theme=nord&border_color=7dd3fc)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-4)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](#)
 
-![](https://streak-stats.demolab.com?user=Omkarjaju7&theme=nord)
+</td>
+</tr>
+</table>
 
-![](https://github-profile-trophy.vercel.app/?username=Omkarjaju7&theme=nord&no-frame=true&no-bg=true&row=1)
+</div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Omkarjaju7&theme=nord)
+<br/>
 
-## 🤝 Connect
+<!-- ============ GITHUB STATS ============ -->
+## 📈 GitHub Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-jaju-1a3aa73a1)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:omkarjaju1@outlook.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omkarjaju7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarjaju7&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=120&section=footer" />
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarjaju7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Omkarjaju7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+
+</div>
+
+<br/>
+
+<!-- ============ CONTRIBUTION GRAPH ============ -->
+## 📊 Contribution Activity
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omkarjaju7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=ffffff&area=true&area_color=8B5CF6" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<!-- ============ SNAKE ANIMATION ============ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Omkarjaju7/Omkarjaju7/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+> Generated automatically every 24h via GitHub Actions. See `snake.yml` workflow for setup.
+
+<br/>
+
+<!-- ============ CURRENTLY LEARNING / GOALS ============ -->
+## 🌱 Currently Learning & Career Goals
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+**📚 Currently Learning**
+- Large Language Models & Prompt Engineering
+- MLOps & Model Deployment (Docker, CI/CD)
+- Advanced System Design
+- Cloud AI Services (AWS SageMaker / GCP Vertex AI)
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Career Goals — 2026**
+- Contribute to production AI/ML systems at scale
+- Deepen expertise in applied deep learning
+- Ship at least one open-source ML tool
+- Grow as a full stack engineer who understands the ML layer end-to-end
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============ CONNECT ============ -->
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-handle)
+
+</div>
+
+<br/>
+
+<!-- ============ FOOTER ============ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer"/>
+
+*"The best way to predict the future is to build it."*
+
+⭐️ **If you found something useful here, consider dropping a star on my repos!**
+
+</div>
