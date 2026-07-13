@@ -3,10 +3,8 @@
 <!-- ============ HERO BANNER ============ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20There,%20I'm%20Omkar%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Data%20Scientist%20|%20Full%20Stack%20Developer&descAlignY=58&descSize=18" />
 
-<!-- ============ TYPING ANIMATION ============ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+ML;Turning+data+into+decisions;Full+Stack+Developer+%7C+MERN+%2B+Python;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
-</a>
+<!-- ============ TAGLINE ============ -->
+<h3>🚀 Building intelligent systems with AI &amp; ML &nbsp;|&nbsp; Turning data into decisions &nbsp;|&nbsp; Full Stack Developer (MERN + Python)</h3>
 
 <br/>
 
@@ -157,7 +155,7 @@ End-to-end machine learning application combining automotive price forecasting w
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Omkarjaju7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://raw.githubusercontent.com/Omkarjaju7/Omkarjaju7/output/trophy.svg" alt="Trophies"/>
 
 </div>
 
