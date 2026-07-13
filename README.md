@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING ANIMATION ============ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+ML;Turning+data+into+decisions;Full+Stack+Developer+%7C+MERN+%2B+Python;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+AI+%26+ML;Turning+data+into+decisions;Full+Stack+Developer+%7C+MERN+%2B+Python;Always+learning%2C+always+shipping+🚀" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,10 +26,11 @@
 <!-- ============ ABOUT ME ============ -->
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/OleksiiBulba/OleksiiBulba/main/img/hi.gif" alt="coding gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-4e1a875e378a.gif" alt="coding gif"/>
 
+- 🎓 Information Technology student with a focus on **Data Science & Machine Learning**
 - 🔭 I'm currently working on **AI-powered applications** that blend machine learning with production-grade full stack engineering
-- 🌱 Currently deep-diving into **Deep Learning, LLMs, and MLOps**
+- 🌱 Currently deep-diving into **Computer Vision, NLP, LLMs, and RAG pipelines**
 - 💡 I love turning messy, real-world data into clean, actionable insights
 - 🛠️ I build end-to-end — from data pipelines and model training to polished, responsive web apps
 - 🎯 2026 Goal: Land a role where I can ship AI products that people actually use
@@ -44,27 +45,51 @@
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql&theme=dark" />
 
-**AI / ML / Data Science**
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/MERN%20Stack-6366F1?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+**AI / Machine Learning**
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-6366F1?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+**Frameworks & Tools**
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-**Full Stack Development**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,django,flask,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-00684A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**Tools & Platforms**
+**Developer Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+
+**Core Concepts**
+
+<img src="https://img.shields.io/badge/DSA-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=for-the-badge"/>
 
 </div>
 
@@ -79,48 +104,36 @@
 <tr>
 <td width="50%">
 
-### 🤖 [AI Project Name](https://github.com/Omkarjaju7/repo-1)
-An end-to-end machine learning project that [does X for Y users] — trained on [dataset], achieving [metric/result].
+### 🧾 [Vendor Invoice Intelligence System](https://github.com/Omkarjaju7/Vendor-Invoice-Intelligence-System)
+AI-powered freight cost prediction and vendor invoice anomaly detection, with a Streamlit interface for auditing invoices end-to-end.
 
-`Python` `TensorFlow` `Flask` `Docker`
+`Python` `Streamlit` `Pandas` `NumPy` `Scikit-learn` `Joblib` `Seaborn` `Matplotlib`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-1)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/Vendor-Invoice-Intelligence-System)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://vendor-invoice-intelligence-system-jevrnwb2uhtlokxdlyxypo.streamlit.app/)
 
 </td>
 <td width="50%">
 
-### 🌐 [Full Stack App Name](https://github.com/Omkarjaju7/repo-2)
-A full stack web application featuring [key feature] with real-time [functionality], built for [use case].
+### 🎬 [Movie Recommendation System](https://github.com/Omkarjaju7/Movie-Recommendation-System)
+A content-based recommendation engine that suggests similar movies from user input and displays posters live via the TMDB API.
 
-`React` `Node.js` `MongoDB` `Express`
+`Python` `Streamlit` `Pandas` `Scikit-learn` `Pickle` `TMDB API`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-2)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/Movie-Recommendation-System)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://movie-recommendation-system-fpcosmrvpom92gehejjc8e.streamlit.app/)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2">
 
-### 📊 [Data Science Project](https://github.com/Omkarjaju7/repo-3)
-Exploratory analysis and predictive modeling on [dataset/domain], surfacing insights that [impact/result].
+### 🚗 [AI-Powered Automotive Valuation & Health Diagnostics](https://github.com/Omkarjaju7/AI-powered-predictions-for-automotive-valuation-and-health-diagnostics)
+End-to-end machine learning application combining automotive price forecasting with Parkinson's disease detection, wrapped in a modern web interface.
 
-`Python` `Pandas` `scikit-learn` `Power BI`
+`Python` `Machine Learning` `HTML/CSS` `Flask`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-3)
-[![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 🔧 [Developer Tool Name](https://github.com/Omkarjaju7/repo-4)
-A utility/tool that streamlines [workflow], saving [time/effort metric] for developers.
-
-`TypeScript` `Node.js` `CLI`
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/repo-4)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](#)
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Omkarjaju7/AI-powered-predictions-for-automotive-valuation-and-health-diagnostics)
 
 </td>
 </tr>
@@ -135,16 +148,16 @@ A utility/tool that streamlines [workflow], saving [time/effort metric] for deve
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omkarjaju7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Omkarjaju7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=c9d1d9&count_private=true" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Omkarjaju7&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkarjaju7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Omkarjaju7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Omkarjaju7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Omkarjaju7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
@@ -203,12 +216,9 @@ A utility/tool that streamlines [workflow], saving [time/effort metric] for deve
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-jaju-1a3aa73a1)
+[![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:omkarjaju1@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omkarjaju7)
 
 </div>
 
